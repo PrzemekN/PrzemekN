@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrzemekN
 - 👀 I’m interested in Python language
-- 🌱 
+- 🌱 Dash: https://dash.plotly.com/introduction
 -
 - 
 
